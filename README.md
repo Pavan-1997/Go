@@ -6,4 +6,12 @@ Go programming implementations use a traditional compile and link model to gener
 
 The Go programming language was announced in November 2009 and is used in some of the Google's production systems.
 
+Why Go:
+```
+- Easier syntax and faster compilation than C++
+- Strict typing, as in JAVA and C++
+- Better performance than Python
+- Build-in core features and great support for third-party code
+```
+
 go run <file-name.go>
