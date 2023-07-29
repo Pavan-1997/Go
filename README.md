@@ -22,4 +22,4 @@ Features of Go:
 - Support for environment adopting patterns similar to dynamic languages. For example, type inference (x := 0 is valid declaration of a variable x of type int)
 ```
 
-go run <file-name.go>
+ 
